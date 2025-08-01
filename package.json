@@ -1,0 +1,2 @@
+npm init -y
+npm install express ejs mongoose passport passport-local express-session bcryptjs multer dotenv
